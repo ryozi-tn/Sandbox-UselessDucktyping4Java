@@ -1,8 +1,9 @@
 Sandbox-UselessDucktyping4Java
 ==============================
 
-useless
+[Example Code](src/main/java/myapp/logic/MyLogic.java)
 
+### Output
 ```
 Name:ryozi
 my name is ryozi. I'm 24 years old.
